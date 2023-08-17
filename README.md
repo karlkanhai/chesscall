@@ -12,7 +12,7 @@ nodejs: 0.0.0,<br>
 socket.io:  2.3.0 <br>
 
 # How to contribute: 
-Simply fork the repo and then contact kkanhai2021@mka.org, adimaggio2021@mka.org, or geilender2021@mka.org with your changes and or suggestions.
+Simply fork the repo
 
 
 # Contributors: 
